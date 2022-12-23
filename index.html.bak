@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>NosoMN</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+    <!-- Favicons -->
+    <link href="assets/img/favicon%20-nosomn.png" rel="icon">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CRaleway:300,300i,400,400i,500,500i,600,600i,700,700i%7CPoppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+
+      rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <!-- Template Main CSS File -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <!-- =======================================================
+  </head>  <body>    <!-- ======= Header ======= -->
+  </head>
+  <body>
+    <header id="header" class="fixed-top d-flex align-items-center">
+      <div class="container d-flex align-items-center justify-content-between">
+        <div class="logo">
+          <h1><span style="color: #222222;">NosoMN</span></h1>
+          <!-- Uncomment below if you prefer to use an image logo -->
+          <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        </div>
+        <nav id="navbar" class="navbar">
+          <ul>
+            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+            <li><a class="nav-link scrollto" href="#about">About</a></li>
+            <li><a class="nav-link scrollto" href="#services">Services</a></li>
+            <li><a class="nav-link scrollto" href="#team">Team</a></li>
+            <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+            <li><a class="nav-link scrollto" href="#pool">Pool</a></li>
+            <li class="dropdown"><a href="#">&nbsp;</a>
+              <ul>
+              </ul>
+            </li>
+            <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+            <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          </ul>
+          <i class="bi bi-list mobile-nav-toggle"></i> </nav>
+        <!-- .navbar --> </div>
+    </header>
+    <!-- End Header -->
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+            <h1 data-aos="fade-up">The first Masternode hosting service</h1>
+            <h2 data-aos="fade-up" data-aos-delay="400">Just drop your address
+              and you’re good to go !</h2>
+            <div data-aos="fade-up" data-aos-delay="800"> <a href="#about" class="btn-get-started scrollto">Get
+                Started</a> </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left"
+
+            data-aos-delay="200"> <img src="assets/img/hero-img.png" class="img-fluid animated"
+
+              alt=""> </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Hero -->
+    <main id="main">
+      <!-- ======= About Us Section ======= -->
+      <section id="about" class="about">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>About Us</h2>
+          </div>
+          <div class="row content">
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="150">
+              <p> NosoMN was founded to provide the best bang for the buck
+                hosting solution for your nodes. </p>
+              <ul>
+                <li><i class="ri-check-double-line"></i> Cheap cheaper than
+                  renting a vps</li>
+                <li><i class="ri-check-double-line"></i> Best uptime
+                  99.99%(except some maintenance)</li>
+                <li><i class="ri-check-double-line"></i> 24/7 watch over your
+                  nodes</li>
+              </ul>
+            </div>
+            <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="300">
+              <p> . </p>
+              <a href="#" class="btn-learn-more">Learn More</a> </div>
+          </div>
+        </div>
+      </section>
+      <!-- End About Us Section -->
+      <!-- ======= Counts Section ======= -->
+      <section id="counts" class="counts">
+        <div class="container">
+          <div class="row">
+            <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-xl-start"
+
+              data-aos="fade-right" data-aos-delay="150"> <img src="assets/img/counts-img.svg"
+
+                alt="" class="img-fluid"> </div>
+            <div class="col-xl-7 d-flex align-items-stretch pt-4 pt-xl-0" data-aos="fade-left"
+
+              data-aos-delay="300">
+              <div class="content d-flex flex-column justify-content-center">
+                <div class="row">
+                  <div class="col-md-6 d-md-flex align-items-md-stretch">
+                    <div class="count-box"> <i class="bi bi-emoji-smile"></i> <span
+
+                        data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1"
+
+                        class="purecounter"></span>
+                      <p><strong>Happy Clients</strong> </p>
+                    </div>
+                  </div>
+                  <div class="col-md-6 d-md-flex align-items-md-stretch">
+                    <div class="count-box"> <i class="bi bi-clock"></i> <span
+
+                        data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1"
+
+                        class="purecounter"></span>
+                      <p><strong>month of hosting</strong> </p>
+                    </div>
+                  </div>
+                  <!-- End .content--> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Counts Section -->
+      <!-- ======= Services Section ======= -->
+      <section id="services" class="services">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>Services</h2>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+                <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                <h4 class="title"><a href="">Full Node</a></h4>
+                <p class="description">If you have the stacking amount host your
+                  nodes with us</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+                <div class="icon"><i class="bx bx-file"></i></div>
+                <h4 class="title"><a href="">Shared node</a></h4>
+                <p class="description"> If deposit is not affordable by the
+                  average crypto enthusiast but they still want to get a portion
+                  of masternode reward they can chip in and buy a share of a
+                  masternode collateral.</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+                <div class="icon"><i class="bx bx-tachometer"></i></div>
+                <h4 class="title"><a href="">NosoMN pool</a></h4>
+                <p class="description">Join our pool and start earning noso just
+                  download consominer2 our pool is automatically listed there</p>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+              <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+                <div class="icon"><i class="bx bx-world"></i></div>
+                <h4 class="title"><a href="">Monitoring page</a></h4>
+                <p class="description">Visit the monitor page to view your node
+                  status/uptime free with any hosting plans</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Services Section -->
+      <!-- ======= Testimonials Section ======= -->
+      <section id="testimonials" class="testimonials section-bg">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>Testimonials</h2>
+            <p>Reviews:</p>
+          </div>
+          <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                <div class="testimonial-wrap">
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/Gonefishing.png"
+
+                      class="testimonial-img" alt="">
+                    <h3>Gonefishing4422</h3>
+                    <h4>Client</h4>
+                    <p> <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Honest and affordable. Noso Masternode hosting with
+                      exceptional customer service <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="testimonial-wrap">
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/SlimanAkarin.gif"
+
+                      class="testimonial-img" alt="">
+                    <h3>Sliman Akarin</h3>
+                    <h4>Client</h4>
+                    <p> <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      100% uptime on my Master Nodes in weeks and I’ve never
+                      checked nor did anything else for it to happen. NosoMN
+                      service is that simple <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="testimonial-wrap">
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/Rukzuk.png"
+
+                      class="testimonial-img" alt="">
+                    <h3>Rukzuk</h3>
+                    <h4>Store Owner</h4>
+                    <p> <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Nosomn.com is Noso’s first MN hosting service, provided
+                      and maintained by a well respected member of our
+                      community. If you are looking for a trustable MN partner,
+                      look no further <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <!-- End testimonial item -->
+              <div class="swiper-slide">
+                <div class="testimonial-wrap">
+                  <div class="testimonial-item"> <img src="assets/img/testimonials/ipay_seah.png"
+
+                      class="testimonial-img" alt="">
+                    <h3>ipay_seah</h3>
+                    <h4>client</h4>
+                    <p> <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                     It is recommended for those who have difficulty operating the master node directly.  Delegate the hosting of the master node to a member of a trusted young and old project. We recommend nosomn.com, which operates master node hosting as the best service. <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                  </div>
+                </div>
+              </div>
+             
+            <div class="swiper-pagination"></div>
+          </div>
+        </div>
+      </section>
+      <!-- End Testimonials Section -->
+      <!-- ======= Team Section ======= -->
+      <section id="team" class="team section-bg">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>Team</h2>
+         
+          </div>
+          <div class="row">
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="member-img"> <img src="assets/img/team/siko.png"
+
+                    class="img-fluid" alt="">
+                  <div class="social"> <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a> <a href=""><i
+
+                        class="bi bi-instagram"></i></a> <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>siko</h4>
+                  <span>Owner/Manager</span> </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+              <div class="member" data-aos="fade-up" data-aos-delay="200">
+                <div class="member-img"> <img src="assets/img/testimonials/Gonefishing.png"
+
+                    class="img-fluid" alt="">
+                  <div class="social"> <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a> <a href=""><i
+
+                        class="bi bi-instagram"></i></a> <a href=""><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Gonefihsing</h4>
+                  <span>Partner</span> </div>
+             
+              
+      </section>
+      <!-- End Team Section -->
+      <!-- ======= Pricing Section ======= -->
+      <section id="pricing" class="pricing">
+        <div class="container">
+          <div class="section-title">
+            <h2>Plans:</h2>
+            <h3>To book a node dm @siko on discord or email us on
+              teamndrs@gmail.com</h3>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6">
+              <div class="box" data-aos="zoom-in-right" data-aos-delay="200">
+                <h3>1 Month</h3>
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24"
+
+                  height="24" fill="none"><style>@keyframes
+                    rotate{0%{transform:rotateZ(0)}to{transform:rotateZ(360deg)}}</style><path
+
+                    stroke="#0A0A30" stroke-width="1.5" d="M10.524 4.614a2 2 0 012.952 0l.459.502a2 2 0 001.565.648l.68-.03a2 2 0 012.087 2.087l-.03.68a2 2 0 00.648 1.564l.501.46a2 2 0 010 2.95l-.502.46a2 2 0 00-.648 1.565l.03.68a2 2 0 01-2.086 2.087l-.68-.03a2 2 0 00-1.565.648l-.46.501a2 2 0 01-2.95 0l-.46-.502a2 2 0 00-1.565-.648l-.68.03a2 2 0 01-2.087-2.086l.03-.68a2 2 0 00-.647-1.565l-.502-.46a2 2 0 010-2.95l.502-.46A2 2 0 005.764 8.5l-.03-.68A2 2 0 017.82 5.734l.68.03a2 2 0 001.564-.647l.46-.502z"
+
+                    style="animation:rotate 2s linear both infinite;transform-origin:center center"></path><path
+
+                    stroke="#265BFF" stroke-linecap="round" stroke-linejoin="round"
+
+                    stroke-width="1.5" d="M13.873 10.004l-3.746 3.992"></path><circle
+
+                    cx="10.127" cy="10.004" r="1.074" fill="#265BFF"></circle><circle
+
+                    cx="13.873" cy="13.995" r="1.074" fill="#265BFF"></circle></svg>
+                <h4><sup></sup>3.5$<span> / node</span></h4>
+                <ul>
+                  <li>1x Xeon vcore</li>
+                  <li>768 MB RAM</li>
+                  <li>1 TB of bandwith</li>
+                  <li>SSD Raid 10</li>
+                  <li>5 Geographic locations</li>
+                </ul>
+                <div class="btn-wrap"> <a href="#" class="btn-buy">Buy Now</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+              <div class="box recommended" data-aos="zoom-in" data-aos-delay="100">
+                <h3>6 Months</h3>
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24"
+
+                  height="24" fill="none"><style>@keyframes
+                    rotate{0%{transform:rotateZ(0)}to{transform:rotateZ(360deg)}}</style><path
+
+                    stroke="#0A0A30" stroke-width="1.5" d="M10.524 4.614a2 2 0 012.952 0l.459.502a2 2 0 001.565.648l.68-.03a2 2 0 012.087 2.087l-.03.68a2 2 0 00.648 1.564l.501.46a2 2 0 010 2.95l-.502.46a2 2 0 00-.648 1.565l.03.68a2 2 0 01-2.086 2.087l-.68-.03a2 2 0 00-1.565.648l-.46.501a2 2 0 01-2.95 0l-.46-.502a2 2 0 00-1.565-.648l-.68.03a2 2 0 01-2.087-2.086l.03-.68a2 2 0 00-.647-1.565l-.502-.46a2 2 0 010-2.95l.502-.46A2 2 0 005.764 8.5l-.03-.68A2 2 0 017.82 5.734l.68.03a2 2 0 001.564-.647l.46-.502z"
+
+                    style="animation:rotate 2s linear both infinite;transform-origin:center center"></path><path
+
+                    stroke="#265BFF" stroke-linecap="round" stroke-linejoin="round"
+
+                    stroke-width="1.5" d="M13.873 10.004l-3.746 3.992"></path><circle
+
+                    cx="10.127" cy="10.004" r="1.074" fill="#265BFF"></circle><circle
+
+                    cx="13.873" cy="13.995" r="1.074" fill="#265BFF"></circle></svg>
+                <h4><sup></sup>20$<span> / node</span></h4>
+                <ul>
+                  <li>1x Xeon vcore</li>
+                  <li>768 MB RAM</li>
+                  <li>1 TB of bandwith</li>
+                  <li>SSD Raid 10</li>
+                  <li>5 Geographic locations</li>
+                </ul>
+                <div class="btn-wrap"> <a href="#" class="btn-buy">Buy Now</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+              <div class="box" data-aos="zoom-in-left" data-aos-delay="200">
+                <h3>1 Year</h3>
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24"
+
+                  height="24" fill="none"><style>@keyframes
+                    rotate{0%{transform:rotateZ(0)}to{transform:rotateZ(360deg)}}</style><path
+
+                    stroke="#0A0A30" stroke-width="1.5" d="M10.524 4.614a2 2 0 012.952 0l.459.502a2 2 0 001.565.648l.68-.03a2 2 0 012.087 2.087l-.03.68a2 2 0 00.648 1.564l.501.46a2 2 0 010 2.95l-.502.46a2 2 0 00-.648 1.565l.03.68a2 2 0 01-2.086 2.087l-.68-.03a2 2 0 00-1.565.648l-.46.501a2 2 0 01-2.95 0l-.46-.502a2 2 0 00-1.565-.648l-.68.03a2 2 0 01-2.087-2.086l.03-.68a2 2 0 00-.647-1.565l-.502-.46a2 2 0 010-2.95l.502-.46A2 2 0 005.764 8.5l-.03-.68A2 2 0 017.82 5.734l.68.03a2 2 0 001.564-.647l.46-.502z"
+
+                    style="animation:rotate 2s linear both infinite;transform-origin:center center"></path><path
+
+                    stroke="#265BFF" stroke-linecap="round" stroke-linejoin="round"
+
+                    stroke-width="1.5" d="M13.873 10.004l-3.746 3.992"></path><circle
+
+                    cx="10.127" cy="10.004" r="1.074" fill="#265BFF"></circle><circle
+
+                    cx="13.873" cy="13.995" r="1.074" fill="#265BFF"></circle></svg>
+                <h4><sup></sup>36$<span> / node</span></h4>
+                <ul>
+                  <li>1x Xeon vcore</li>
+                  <li>768 MB RAM</li>
+                  <li>1 TB of bandwith</li>
+                  <li>SSD Raid 10</li>
+                  <li>5 Geographic locations</li>
+                </ul>
+                <div class="btn-wrap"> <a href="#" class="btn-buy">Buy Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Pricing Section -->
+      <!-- ======= F.A.Q Section ======= -->
+      <section id="faq" class="faq">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>Frequently Asked Questions</h2>
+          </div>
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up"
+
+            data-aos-delay="100">
+            <div class="col-lg-5"> <i class="ri-question-line"></i>
+              <h4>What uptime do you provide for Masternodes?</h4>
+            </div>
+            <div class="col-lg-7">
+              <p> Our service provides an uptime of 99%. Some downtime is
+                required for OS updates, rare node software issues, or other
+                unforeseen hardware or software faults. In the rare event of an
+                unplanned downtime, team members are immediately alerted to
+                promptly resolve the issue. </p>
+            </div>
+          </div>
+          <!-- End F.A.Q Item-->
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up"
+
+            data-aos-delay="200">
+            <div class="col-lg-5"> <i class="ri-question-line"></i>
+              <h4>Where are the masternodes hosted?</h4>
+            </div>
+            <div class="col-lg-7">
+              <p> Our service provides 5 geographic locations for MNs: Chicago,
+                Illinois Atlanta, Georgia San Jose, California Ashburn, Virginia
+                Dallas, Texas </p>
+            </div>
+          </div>
+          <!-- End F.A.Q Item-->
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up"
+
+            data-aos-delay="300">
+            <div class="col-lg-5"> <i class="ri-question-line"></i>
+              <h4>Do i have to send any Noso to the service?</h4>
+            </div>
+            <div class="col-lg-7">
+              <p> Not at all you dont have to send any Noso all you have to do
+                is send us your address so your coins are completly safe! ex:
+                1.NXC3XXXXXXX </p>
+            </div>
+          </div>
+          <!-- End F.A.Q Item-->
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up"
+
+            data-aos-delay="400">
+            <div class="col-lg-5"> <i class="ri-question-line"></i>
+              <h4>What are the specs of the MN?</h4>
+            </div>
+            <div class="col-lg-7">
+              <p> 1x Xeon vcore// 768 MB RAM// 1 TB of bandwith// SSD Raid 10//
+                5 Geographic locations </p>
+            </div>
+          </div>
+          <!-- End F.A.Q Item-->
+          <div class="row faq-item d-flex align-items-stretch" data-aos="fade-up"
+
+            data-aos-delay="500">
+            <div class="col-lg-5"> <i class="ri-question-line"></i>
+              <h4>How can I book a Masternode?</h4>
+            </div>
+            <div class="col-lg-7">
+              <p> Join our discord server and dm the owner siko and i will get
+                back to you as soon as possible our send us an email on
+                teamndrs@gmail.com with the following details: your Name, Email
+                address, MN addresses containing sufficient Noso, number of MN`s
+                you would like us to host, and your payment method of choice.
+                Once submitted, typically an NosoMN team members will be in
+                touch with you within minutes. </p>
+            </div>
+          </div>
+          <!-- End F.A.Q Item--> </div>
+      </section>
+      <!-- End F.A.Q Section -->
+      <!-- ======= Contact Section ======= -->
+      <section id="contact" class="contact">
+        <div class="container">
+          <div class="section-title" data-aos="fade-up">
+            <h2>Contact Us</h2>
+          </div>
+          <div class="row">
+            <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+              <div class="contact-about">
+                <h3>NosoMN</h3>
+                <p>Join our Discord server for latest news,updates,or just to
+                  chat with our community.</p>
+                <div class="social-links"> <a href="https://discord.gg/7FJkj6ZrxZ"
+
+                    class="Discord" target="_blank"><i class="bi bi-discord"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+              <div class="info">
+                <div> <i class="ri-map-pin-line"></i>
+                  <p>Lebanon,Beirut</p>
+                </div>
+                <div> <i class="ri-mail-send-line"></i>
+                  <p>teamndrs@gmail.com</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- End Contact Section --> </main>
+    <!-- End #main -->
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+      <div class="container">
+        <div class="row d-flex align-items-center">
+          <div class="col-lg-6 text-lg-left text-center">
+            <div class="copyright"><br>
+            </div>
+            <div class="credits"> </div>
+          </div>
+          <div class="col-lg-6">
+            <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0"> <a
+
+                href="#intro" class="scrollto">Home</a> <a href="#about" class="scrollto">About</a>
+              <a href="#">Privacy Policy</a> <a href="#">Terms of Use</a> </nav>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- End Footer -->
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="assets/vendor/aos/aos.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/vendor/php-email-form/validate.js"></script>
+    <!-- Template Main JS File -->
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
